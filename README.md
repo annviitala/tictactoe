@@ -1,3 +1,4 @@
+
 # Tictactoe
 
 Tic Tac Toe game in javascript
@@ -25,5 +26,7 @@ FUTURE PLANS
 2. To create player database
 3. To logically arrange the code, example consider using class or object and implement inheritance
 
+LICENSE
+This program is a free software.  Redistribution and/or modification is permitted under GNU General Public License v3.0 or any subsequent version.
 
-   
+This program is mainly for educational purposes and does not warrant its fitness for commercial game production capabilities.
